@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "389399881051",
+    "project_id": "stage-2-techtorial",
+    "storage_bucket": "stage-2-techtorial.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:389399881051:android:a0114e0ec463c09d55267e",
+        "android_client_info": {
+          "package_name": "com.example.stage_2_tech_torial"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlCNKvL7Jhdjk3n381DVCLhQXIvYi4dwo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:389399881051:android:6c2b304c3476659c55267e",
+        "android_client_info": {
+          "package_name": "com.example.stage_2_techtorial_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlCNKvL7Jhdjk3n381DVCLhQXIvYi4dwo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
